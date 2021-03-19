@@ -1,24 +1,7 @@
-# README
+# techrollmancer (server)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Techrollmancer is a companion app for Dungeons & Dragons 5e. 
 
-Things you may want to cover:
+Players can create and update character sheets, schedule games, and generate random characters.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Created on Ruby on Rails.
